@@ -1,0 +1,13 @@
+[
+  
+	{
+		"name": "Giant Death Robot",
+		"unitType": "Armored", //note: melee tank?
+		"movement": 5,
+		"strength": 150,
+		"cost": 425,
+		"requiredTech": "Fusion Power", //Get in Realization era.
+		"uniques": ["Consumes [1] [Ulframite]", "Can only be built <with [Ulframite]>", "Can only be built <in cities with a [Mechanized Unit Facility]>", "Can move after attacking", "No defensive terrain bonus", "Never appears as a Barbarian unit"],
+		"attackSound": "gdrAttack"
+	}
+]
